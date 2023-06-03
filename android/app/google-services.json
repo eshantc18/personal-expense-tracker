@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "463810911372",
+    "project_id": "personal-expense-tracker-fac4f",
+    "storage_bucket": "personal-expense-tracker-fac4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463810911372:android:05dbed507975b72c81efa9",
+        "android_client_info": {
+          "package_name": "com.example.personalexpense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463810911372-gosias341v8helclrs4cb9nb9cnbb334.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.personalexpense",
+            "certificate_hash": "b6313b3264719f72cf4ca1298e20709deab9ef80"
+          }
+        },
+        {
+          "client_id": "463810911372-2onhip5is8ojfhcdb560275irosqkqtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv5DL3rkPOBg2O6OThC5pqzeKnxbiR8fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463810911372-2onhip5is8ojfhcdb560275irosqkqtc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
