@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>463810911372-4v21pp9mq4grp4jrhc177q5hog3c2sqd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.463810911372-4v21pp9mq4grp4jrhc177q5hog3c2sqd</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>463810911372-gosias341v8helclrs4cb9nb9cnbb334.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAJFSCtN8SSSztTn0-nHGT73pYbOr9xfLA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>463810911372</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.clickCounter</string>
+	<key>PROJECT_ID</key>
+	<string>personal-expense-tracker-fac4f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>personal-expense-tracker-fac4f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:463810911372:ios:158f851846f5bb5c81efa9</string>
+</dict>
+</plist>
